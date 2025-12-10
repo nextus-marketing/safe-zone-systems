@@ -32,25 +32,25 @@
             
             <!-- ============ -->
             <!-- header start -->
-            <style>
-    /* Prevent logo text from breaking into 2 lines */
-    .logo-outer .logo a {
-        white-space: nowrap;
-    }
-
-    /* Mobile fixes */
-    @media (max-width: 767px) {
+    <style>
+        /* Prevent logo text from breaking into 2 lines */
         .logo-outer .logo a {
-            font-size: 22px !important; /* Slightly smaller so it fits */
+            white-space: nowrap;
         }
 
-        .header-inner {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+        /* Mobile fixes */
+        @media (max-width: 767px) {
+            .logo-outer .logo a {
+                font-size: 22px !important; /* Slightly smaller so it fits */
+            }
+
+            .header-inner {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
         }
-    }
-</style>
+    </style>
 
 <header class="main-header">
     <div class="header-upper">

@@ -114,7 +114,7 @@ ul.custom-bullet li::before {
                     </br>
                     <h4>13. Contact Us</h4>
                     <p>
-                         Phone: <a href="tel:+18476735062">+1 (847) 673-5062</a><br>
+                        Phone: <a href="tel:+18476735062">+1 (847) 673-5062</a><br>
                         Email: <a href="mailto:install@safezonesystems.site">install@safezonesystems.site</a><br>
                         Address: 9015 N Lowell Ave, Skokie, IL 60076
                     </p>
@@ -125,7 +125,6 @@ ul.custom-bullet li::before {
     </div>
 </div>
 
-
-                <!-- /.page-content -->
-            </main>
+<!-- /.page-content -->
+</main>
 @endsection

@@ -73,15 +73,11 @@
                 <!-- Main Menu -->
                 <nav class="main-menu navbar-expand-lg ml-lg-auto mr-xl-auto">
                     <div class="navbar-header clearfix">
-
-                        <!-- Mobile Logo (keep but smaller automatically due to CSS) -->
-                       
                                     <a href="/">
                                         <img src="/frontend/my-img/logo.png" 
                                             alt="logo" 
                                             style="height:55px; width:250px;">
                                     </a>
-
                         <!-- Toggle Button -->
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-one">
                             <span class="icon-bar"></span>
@@ -263,7 +259,7 @@
 </style>
 
 <!-- Button -->
-<a href="tel:+15037146222" class="call-now-btn">
+<a href="tel:+18476795062" class="call-now-btn">
     <!-- Phone SVG -->
     <svg viewBox="0 0 24 24">
         <path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 
@@ -288,7 +284,7 @@
         <h2>Get <span style="color:#21b4a6;">3 Months FREE</span> Monitoring!</h2>
         <p>Call now and secure your home with our exclusive limited-time offer.</p>
         <div class="text-center">
-            <a href="tel:+15037146222" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
+            <a href="tel:+18476795062" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
         </div>
     </div>
 </div>

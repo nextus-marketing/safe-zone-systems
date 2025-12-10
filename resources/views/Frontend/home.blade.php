@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Reliable Home Security Systems & CCTV Solutions | Home Security Firm
+@section('title') Safe Zone Systems | Professional CCTV Installation & 24/7 Security Solutions
  @endsection
 @section('content')
 <style>

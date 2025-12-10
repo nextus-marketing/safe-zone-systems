@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-sitemap: https://homesecurityfirm.com/sitemap.xml
+sitemap: https://safezonesystems.site/sitemap.xml

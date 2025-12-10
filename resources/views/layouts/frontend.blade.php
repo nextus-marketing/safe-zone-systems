@@ -3,13 +3,13 @@
 <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Protect your home with advanced CCTV, 24/7 monitoring, and smart security solutions. Expert installation and support in Hillsboro. Secure your home today!" />
+        <meta name="description" content="Upgrade your safety with Safe Zone Systems. Our professional CCTV installation, advanced surveillance technology, and round-the-clock monitoring deliver complete protection for homes and businesses." />
         <title>@yield('title')</title>
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
         <link rel="canonical" href="{{ url()->current() }}" />
         <link rel="shortcut icon" href="/frontend/my-img/favicon.png" />
         <!-- google fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet"/>
         <!-- css assets -->
         <link href="/frontend/assets/css/bootstrap.min.css" rel="stylesheet" />
         <link href="/frontend/assets/css/icofont.min.css" rel="stylesheet" />

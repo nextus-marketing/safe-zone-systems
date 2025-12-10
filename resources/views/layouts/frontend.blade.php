@@ -379,7 +379,7 @@
 }
 
 .close-popup:hover {
-    color: #21b4a6;
+    color: #f30e0eff;
     transform: rotate(90deg);
 }
 

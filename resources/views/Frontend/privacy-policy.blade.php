@@ -97,7 +97,7 @@ ul.custom-bullet li::before {
                     </br>
                     <h4>Privacy Policy</h4>
                     <p>
-                        At Your Best Home Security, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our products, services, and website. By using our services, you agree to the collection and use of information in accordance with this policy.
+                        At Safe Zone Systems, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our products, services, and website. By using our services, you agree to the collection and use of information in accordance with this policy.
                     </p>
                     </br>
                     <h4>1. Information We Collect</h4>

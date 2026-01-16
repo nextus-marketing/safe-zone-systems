@@ -184,7 +184,7 @@
                                     <div class="service-single">
                                         <figure>
                                             <a href="#0">
-                                               <img src="/frontend/my-img/advance.jpg" 
+                                               <img src="/frontend/my-img/advance.webp" 
                                                     alt="Service Thumb" 
                                                     style="width:278px; height:324px; object-fit:cover;" />
                                             </a>

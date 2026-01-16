@@ -23,7 +23,7 @@
 
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <div class="item-inner" style="background-image: url(/frontend/my-img/banner.jpg);">
+                                <div class="item-inner" style="background-image: url(/frontend/my-img/banner.webp);">
                                     <div class="container h-100">
                                         <div class="row h-100 align-items-center">
                                             <div class="col-xl-6 col-lg-8">

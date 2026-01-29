@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        @php
-            $host = request()->getHost();
-        @endphp
-
         <!-- TITLE -->
         <title>@yield('title')</title>
 
@@ -48,10 +44,6 @@
 
         <!-- SWITCH -->
         <link rel="stylesheet" href="/backend/dist/libs/bootstrap-switch/dist/css/bootstrap3/bootstrap-switch.min.css">
-
-        @php
-            $host = request()->getHost();
-        @endphp
 
     </head>
     <body>

@@ -130,8 +130,6 @@
                             Email: <a href="mailto:install@safezonesystems.site">install@safezonesystems.site</a><br>
                             Address: 9015 N Lowell Ave, Skokie, IL 60076
                         </p>
-
-
                         <p>
                             By using our services, you consent to the terms of this Privacy Policy.
                         </p>

@@ -69,7 +69,7 @@
                             <h2>Dedicated to Your Security Needs</h2>
                             </br>
                             <p>
-                            Safe Zone Systems has been at the forefront of home security since its inception, offering advanced surveillance and protection solutions backed by years of expertise.
+                            Safe Z  ne Systems has been at the forefront of home security since its inception, offering advanced surveillance and protection solutions backed by years of expertise.
                             </br>
                             </br>
                             We pride ourselves on customer satisfaction and building tailored solutions that enhance safety and security for families and businesses alike.

@@ -68,28 +68,28 @@
                         <p>
                            Welcome to <b>Safe Zone Systems</b>. These Terms and Conditions (“Terms”) govern your use of our website, products, and services. By accessing or using our website or services, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please do not use our services.
                         </p>
-
+                        </br>
                        
                             <h4>1. Use of Our Services</h4>
                            <p> You agree to use our services only for lawful purposes and in a manner that does not infringe on the rights of others or restrict their use and enjoyment of the site. You must be at least 18 years old to use our services or have the consent of a legal guardian.
                         </p>
-
+</br>
                         <h4>2. Account Registration</h4>
                            <p>To access certain features of our services, you may be required to register for an account. You agree to provide accurate, current, and complete information and to keep your login credentials secure. You are responsible for all activity that occurs under your account.
                         </p>
-
+</br>
                         <h4>3. Purchases and Payments</h4>
                            <p>By placing an order, you agree to pay the listed price and any applicable taxes or fees. Payments are processed through third-party providers, and Safe Zone Systems is not responsible for any issues arising from those providers.
                         </p>
-
+</br>
                         <h4>4. Installation and Monitoring Services</h4>
                            <p>If you purchase installation or monitoring services through our website, additional terms may apply. These will be provided at the time of service engagement. You are responsible for ensuring access to your property for installation appointments.
                         </p>
-
+</br>
                         <h4>5. Intellectual Property</h4>
                            <p>All content on our website including logos, designs, text, graphics, and software is the property of Safe Zone Systems or its licensors and is protected by intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
                         </p>
-
+</br>
                         <h4>6. User Conduct</h4>
                         <ul class="custom-bullet" >
                             <li>Use the site for any unlawful purpose;</li>
@@ -108,22 +108,22 @@
                         <p>
                            To the maximum extent permitted by law, Safe Zone Systems is not liable for any indirect, incidental, special, or consequential damages arising from your use of the website or services, even if we have been advised of the possibility of such damages.
                         </p>
-                        
+                        </br>
                         <h4>9. Privacy</h4>
                         <p>
                             Your use of our services is also governed by our Privacy Policy, which explains how we collect, use, and protect your personal information.
                         </p>
-                        
+                        </br>
                         <h4>10. Termination</h4>
                         <p>
                            We reserve the right to suspend or terminate your access to the site or services at our sole discretion, without notice, for conduct that we believe violates these Terms or is otherwise harmful to other users or us.
                         </p>
-
+</br>
                         <h4>11. Governing Law</h4>
                         <p>
                           These Terms are governed by the laws of the State of Maryland, USA, without regard to its conflict of laws principles. Any disputes arising out of or related to these Terms shall be resolved in the courts located in Montgomery County, Maryland.
                         </p>
-
+</br>
                         <h4>12. Changes to Terms</h4>
                         <p>
                           We may update these Terms from time to time. When we do, we will revise the “Effective Date” at the top of this page. Continued use of our services after changes have been posted constitutes your acceptance of the updated Terms.

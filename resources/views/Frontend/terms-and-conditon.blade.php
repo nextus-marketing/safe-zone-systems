@@ -79,7 +79,7 @@
                         </p>
 
                         <h4>3. Purchases and Payments</h4>
-                           <p>By placing an order, you agree to pay the listed price and any applicable taxes or fees. Payments are processed through third-party providers, and Home Security Firm is not responsible for any issues arising from those providers.
+                           <p>By placing an order, you agree to pay the listed price and any applicable taxes or fees. Payments are processed through third-party providers, and Safe Zone Systems is not responsible for any issues arising from those providers.
                         </p>
 
                         <h4>4. Installation and Monitoring Services</h4>
@@ -87,7 +87,7 @@
                         </p>
 
                         <h4>5. Intellectual Property</h4>
-                           <p>All content on our website including logos, designs, text, graphics, and software is the property of Home Security Firm or its licensors and is protected by intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
+                           <p>All content on our website including logos, designs, text, graphics, and software is the property of Safe Zone Systems or its licensors and is protected by intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
                         </p>
 
                         <h4>6. User Conduct</h4>
@@ -106,7 +106,7 @@
                         </br>
                         <h4>8. Limitation of Liability</h4>
                         <p>
-                           To the maximum extent permitted by law, Home Security Firm is not liable for any indirect, incidental, special, or consequential damages arising from your use of the website or services, even if we have been advised of the possibility of such damages.
+                           To the maximum extent permitted by law, Safe Zone Systems is not liable for any indirect, incidental, special, or consequential damages arising from your use of the website or services, even if we have been advised of the possibility of such damages.
                         </p>
                         
                         <h4>9. Privacy</h4>

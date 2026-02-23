@@ -204,9 +204,9 @@
 
                             <!-- Call Button -->
                             <div class="menu-button ml-55 d-none d-lg-block">
-                                <a href="tel:+15714501674" class="theme-btn">
+                                <a href="tel:+18558321250" class="theme-btn">
                                     <i class="icofont-ui-call"></i>
-                                    <span>+1 (571) 450-1674</span>
+                                    <span>+1 (855) 832-1250</span>
                                 </a>
                             </div>
 
@@ -281,15 +281,15 @@
                                         <p>
                                             <i class="icofont-ui-call"></i>
                                             <span>
-                                                <a href="tel:+15714501674">+1 (571) 450-1674</a>
+                                                <a href="tel:+18558321250">+1 (855) 832-1250</a>
                                             </span>
                                         </p>
-                                        <p>
+                                        <!-- <p>
                                             <i class="icofont-email"></i>
                                             <span>
                                                 <a href="mailto:install@safezonesystems.site">install@safezonesystems.site</a>
                                             </span>
-                                        </p>
+                                        </p> -->
                                     </div>
                                 </div>
                             </div>
@@ -330,7 +330,7 @@
 
 
         <!-- Button -->
-        <a href="tel:+15714501674" class="call-now-btn">
+        <a href="tel:+18558321250" class="call-now-btn">
             <!-- Phone SVG -->
             <svg viewBox="0 0 24 24">
                 <path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 
@@ -355,7 +355,7 @@
                 <h2>Get <span style="color:#21b4a6;">3 Months FREE</span> Monitoring!</h2>
                 <p>Call now and secure your home with our exclusive limited-time offer.</p>
                 <div class="text-center">
-                    <a href="tel:+15714501674" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
+                    <a href="tel:+18558321250" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
                 </div>
             </div>
         </div>

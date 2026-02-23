@@ -30,7 +30,7 @@
                                         <div class="slider-content">
                                             <h1 data-animation="animate__animated animate__fadeInUp animD-1">Secure Your Home, Protect Your Family</h1>
                                             <p data-animation="animate__animated animate__fadeInUp animD-2">Experience peace of mind with cutting-edge security solutions tailored for your unique needs. Protect what matters most with Safe Zone Systems.</p>
-                                            <a href="tel:+15714501674" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
+                                            <a href="tel:+18558321250" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                             </br>
                             We pride ourselves on customer satisfaction and building tailored solutions that enhance safety and security for families and businesses alike.
                             </p>
-                            <a href="tel:+15714501674" class="theme-btn">Contact Us <i class="icofont-double-right"></i></a>
+                            <a href="tel:+18558321250" class="theme-btn">Contact Us <i class="icofont-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -175,7 +175,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <a href="tel:+15714501674" class="theme-btn" style="margin-top: 25px;">Call Now <i class="icofont-double-right"></i></a>
+                    <a href="tel:+18558321250" class="theme-btn" style="margin-top: 25px;">Call Now <i class="icofont-double-right"></i></a>
                 </div>
             </div>
         </div>
@@ -186,7 +186,7 @@
             <div class="container overflow-hidden">
                 <div class="call-to-action wow animate__animated animate__slow animate__slideInUp">
                     <h2>Secure Your Home Today</h2>
-                    <a href="tel:+15714501674" class="theme-btn">Call for Support <i class="icofont-double-right"></i></a>
+                    <a href="tel:+18558321250" class="theme-btn">Call for Support <i class="icofont-double-right"></i></a>
                 </div>
             </div>
         </div>
@@ -423,7 +423,7 @@
 
                         <!-- Center Button -->
                         <div>
-                            <a href="tel:+15714501674">
+                            <a href="tel:+18558321250">
                             Speak With an Expert <i class="icofont-double-right"></i>
                             </a>
                         </div>

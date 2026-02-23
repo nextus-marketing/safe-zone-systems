@@ -126,8 +126,8 @@
                         <p>
                             If you have any questions about this Privacy Policy or how we handle your personal information, please contact us:
                             <br><br>
-                            Phone: <a href="tel:+15714501674">+1 (571) 450-1674</a><br>
-                            Email: <a href="mailto:install@safezonesystems.site">install@safezonesystems.site</a><br>
+                            Phone: <a href="tel:+18558321250">+1 (855) 832-1250</a><br>
+                            <!-- Email: <a href="mailto:install@safezonesystems.site">install@safezonesystems.site</a><br> -->
                             Address: 9015 N Lowell Ave, Skokie, IL 60076
                         </p>
                         <p>

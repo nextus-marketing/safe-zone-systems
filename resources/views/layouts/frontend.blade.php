@@ -352,8 +352,8 @@
                     </a>
                 </div>
                 <span class="close-popup">&times;</span>
-                <h2>Get <span style="color:#21b4a6;">3 Months FREE</span> Monitoring!</h2>
-                <p>Call now and secure your home with our exclusive limited-time offer.</p>
+                <h2>Get <span style="color:#21b4a6;">Connect with Security Experts for Trusted Protection</h2>
+                <!-- <p>Call now and secure your home with our exclusive limited-time offer.</p> -->
                 <div class="text-center">
                     <a href="tel:+18558321250" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
                 </div>

@@ -26,6 +26,7 @@
         margin: 80px 0;
     }
 </style>
+
 <main class="site-content">
     <div class="innerPage-banner">
         <div class="container">
@@ -64,19 +65,15 @@
             <div class="row">
                 <div class="col-lg-12 order-lg-2 order-1">
                     <article class="single-service">
-
                         <p>
                             A properly installed CCTV system not only helps in crime prevention but also aids in investigations by providing clear and recorded footage. Businesses benefit from increased employee and asset protection, while homeowners gain peace of mind knowing their loved ones and property are secure. Whether for residential, commercial, or industrial purposes, investing in a reliable CCTV installation is a proactive approach to safety and surveillance.
                         </p>
-
                         <p>
                             In today's evolving world, security is more important than ever. Our blog provides in-depth articles on CCTV technology, surveillance best practices, and innovative security solutions to help you make informed decisions. Whether you're a homeowner, business owner, or security enthusiast, our expert insights will keep you updated on the best ways to protect what matters most.
                         </p>
-
                         <p>
                             Explore the latest trends, expert advice, and innovative solutions in security and surveillance. Stay ahead with insights that help you protect your home, business, and assets effectively. Gain valuable knowledge on advanced CCTV systems, smart monitoring, and reliable security practices to ensure maximum safety at all times. Whether you're looking to upgrade your existing security setup or implement a new system, our expert guidance will help you make informed decisions for a safer and more secure environment.
                         </p>
-
                         <p>
                             <h4>Stay secure, stay informed</h4><br>
                             Explore the latest trends, expert advice, and innovative solutions in security and surveillance. Stay ahead with insights that help you protect your home, business, and assets effectively. Gain valuable knowledge on advanced CCTV systems.

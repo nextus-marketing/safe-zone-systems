@@ -3,12 +3,13 @@
  @endsection
 @section('content')
 <style>
-    @media (max-width: 1399px) {
-    .error-content {
-        margin: 50px 0 1px;
+        @media (max-width: 1399px) {
+        .error-content {
+            margin: 50px 0 1px;
+        }
     }
-}
 </style>
+
     <main class="site-content">
         <!-- ==================== -->
         <!-- slider-wrapper start -->
@@ -266,7 +267,6 @@
             });
         </script>
 
-
         <!-- ======================= -->
         <!-- testimony-section start -->
         <div class="testimony-section">
@@ -411,7 +411,6 @@
             <div class="container-xl">
                 <div class="row justify-content-center">
                     <div class="col-xl-8 text-center">
-                        
                         <div class="section-header text-white wow animate__animated animate__slow animate__fadeInUp">
                             <h2 style="font-size:40px; font-weight:700;">
                             Take the First Step to Safety
@@ -420,20 +419,16 @@
                             Contact us for a personalized security assessment today.
                             </p>
                         </div>
-
                         <!-- Center Button -->
                         <div>
                             <a href="tel:+18558321250">
                             Speak With an Expert <i class="icofont-double-right"></i>
                             </a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-
-
         <!-- ===================== -->
     </main>
             
